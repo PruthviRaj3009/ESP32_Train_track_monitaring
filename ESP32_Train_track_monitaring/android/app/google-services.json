@@ -1,0 +1,25 @@
+{
+  "project_info": {
+    "project_number": "350462867458",
+    "project_id": "flutterloginapp-ceb59",
+    "storage_bucket": "flutterloginapp-ceb59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350462867458:android:d0c23827d9fcee77f0cf1b",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [{}],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
